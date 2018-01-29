@@ -1,0 +1,19 @@
+html{
+  background-color: black;
+}
+
+.logoStyle{
+ height: 32px !important;
+  
+}
+
+.jumbotron{
+  /* background-color: darkgray; */
+  margin-bottom: 0px;
+}
+
+.footerStyle{
+  text-align: center;
+  color: white;
+  background-color: black;
+}
